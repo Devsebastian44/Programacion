@@ -6,6 +6,6 @@ Este repositorio contiene recursos educativos relacionados con el **Desarrollo F
 
 Accede a los recursos completos de los cursos de Desarrollo Full Stack en el siguiente enlace: 
 
-[https://mega.nz/folder/p0RRhSbI#sqryHqJpxt_HuB21GMo6CQ](https://mega.nz/folder/p0RRhSbI#sqryHqJpxt_HuB21GMo6CQ).
+[https://mega.nz/folder/k4oliboY#GK2qGw9uyJOxayyz1dk4uw](https://mega.nz/folder/k4oliboY#GK2qGw9uyJOxayyz1dk4uw).
 
 **Nota:** Este contenido es solo para fines educativos y no tiene fines comerciales. Si necesitas más información o ayuda, no dudes en contactarme.
