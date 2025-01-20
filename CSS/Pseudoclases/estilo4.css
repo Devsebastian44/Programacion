@@ -1,9 +1,0 @@
-.caja {
-	transition: background 0.4s, padding 1s;
-	margin: 25 px;
-}
-
-.caja:focus {
-	background: blue;
-	padding: 20px;
-}
