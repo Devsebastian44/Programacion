@@ -1,6 +1,6 @@
 # Cursos de Programación
 
-Este repositorio contiene recursos educativos relacionados a la Programación como **Desarrollo Full Stack**, **Desarrollo de Software** etc. Incluye ejemplos de proyectos y código que cubren tanto el **front-end** como el **back-end**.
+Este repositorio contiene recursos educativos relacionados a la Programación como **Desarrollo Full Stack**, **Desarrollo de Software** etc. Cada curso debes abrir en Obsidian.
 
 ### Enlace a los Cursos
 
