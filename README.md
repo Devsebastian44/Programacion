@@ -4,14 +4,20 @@ Este repositorio contiene recursos educativos relacionados a la Programación co
 
 ### Enlace a los Cursos
 
-Desarrollo Full Stack en el siguiente enlace: 
+[https://mega.nz/folder/18RRyAyI#sqryHqJpxt_HuB21GMo6CQ](https://mega.nz/folder/18RRyAyI#sqryHqJpxt_HuB21GMo6CQ).
 
-[https://mega.nz/folder/k4oliboY#GK2qGw9uyJOxayyz1dk4uw](https://mega.nz/folder/k4oliboY#GK2qGw9uyJOxayyz1dk4uw).
-
-
-Desarrollo de Software en el siguiente enlace: 
-
-[https://mega.nz/folder/9pgyFZKQ#TH_vLNJ8HP2G6PhG6U-cNA](https://mega.nz/folder/9pgyFZKQ#TH_vLNJ8HP2G6PhG6U-cNA).
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="56px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50px"/>
 
 Password: Curso123@
 
