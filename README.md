@@ -20,8 +20,6 @@ Este repositorio contiene recursos educativos relacionados a la Programación co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50px"/>
 </div>
-
-
-Password: Curso123@
+<br>
 
 **Nota:** Este contenido es solo para fines educativos y no tiene fines comerciales. Si necesitas más información o ayuda, no dudes en contactarme.
