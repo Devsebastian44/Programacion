@@ -4,7 +4,7 @@ Este repositorio contiene recursos educativos relacionados a la Programación co
 
 ### Enlace a los Cursos
 
-[https://mega.nz/folder/18RRyAyI#sqryHqJpxt_HuB21GMo6CQ](https://mega.nz/folder/18RRyAyI#sqryHqJpxt_HuB21GMo6CQ).
+[https://mega.nz/folder/18RRyAyI#sqryHqJpxt_HuB21GMo6CQ](https://mega.nz/folder/18RRyAyI#sqryHqJpxt_HuB21GMo6CQ)
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px"/>
