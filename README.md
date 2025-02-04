@@ -1,4 +1,4 @@
-# Cursos de Programación
+# Apuntes
 
 Este repositorio contiene conocimientos relacionados a la Programación como **Desarrollo Full Stack**, **Desarrollo de Software** etc. Cada tema debes abrir en **[Obsidian](https://obsidian.md/)**.
 
@@ -19,7 +19,7 @@ Este repositorio contiene conocimientos relacionados a la Programación como **D
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg>" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50px"/>
 </div>
 <br>
 
