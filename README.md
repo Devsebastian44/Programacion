@@ -1,8 +1,8 @@
 # Cursos de Programación
 
-Este repositorio contiene recursos educativos relacionados a la Programación como **Desarrollo Full Stack**, **Desarrollo de Software** etc. Cada curso debes abrir en **[Obsidian](https://obsidian.md/)**.
+Este repositorio contiene conocimientos relacionados a la Programación como **Desarrollo Full Stack**, **Desarrollo de Software** etc. Cada tema debes abrir en **[Obsidian](https://obsidian.md/)**.
 
-### Enlace a los Cursos
+### Enlace a los archivos
 
 [https://mega.nz/folder/18RRyAyI#sqryHqJpxt_HuB21GMo6CQ](https://mega.nz/folder/18RRyAyI#sqryHqJpxt_HuB21GMo6CQ)
 
@@ -19,6 +19,7 @@ Este repositorio contiene recursos educativos relacionados a la Programación co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg>" width="50px"/>
 </div>
 <br>
 
