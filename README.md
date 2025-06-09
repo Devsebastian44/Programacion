@@ -1,10 +1,10 @@
-# Apuntes
+# Conocimientos
 
-Este repositorio contiene conocimientos relacionados a la Programación como **Desarrollo Full Stack**, **Desarrollo de Software** etc. Cada tema debes abrir en **[Obsidian](https://obsidian.md/)**.
+Este repositorio contiene conocimientos relacionados a la Programación como **Desarrollo Full Stack**, **Desarrollo de Software** etc. Para abrir se debe usar **[Obsidian](https://obsidian.md/)**.
 
 ### Enlace a los archivos
 
-[https://mega.nz/folder/18RRyAyI#sqryHqJpxt_HuB21GMo6CQ](https://mega.nz/folder/18RRyAyI#sqryHqJpxt_HuB21GMo6CQ)
+[https://mega.nz/file/dt53nShY#o78KUFGVzPGNfgHf_dWSSjDi4JN_vy-YkwQWK2OHL6E](https://mega.nz/file/dt53nShY#o78KUFGVzPGNfgHf_dWSSjDi4JN_vy-YkwQWK2OHL6E)
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px"/>
@@ -22,5 +22,3 @@ Este repositorio contiene conocimientos relacionados a la Programación como **D
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50px"/>
 </div>
 <br>
-
-**Nota:** Este contenido es solo para fines educativos y no tiene fines comerciales. Si necesitas más información o ayuda, no dudes en contactarme.
