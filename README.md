@@ -1,4 +1,4 @@
-# Conocimientos
+# Conocimiento
 
 Este repositorio contiene conocimientos relacionados a la Programación como **Desarrollo Full Stack**, **Desarrollo de Software** etc. Para abrir se debe usar **[Obsidian](https://obsidian.md/)**.
 
