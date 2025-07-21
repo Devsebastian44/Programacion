@@ -33,8 +33,13 @@ Conocimientos técnicos y teóricos que forman la base del pensamiento computaci
   - Redis
   - SQL
 
+- **Computación Cuántica**
+
 - **Data Engineering**
   - Databricks
+
+- **Inteligencia Artifical**
+  - AI Generativa
 
 ---
 
