@@ -1,24 +1,82 @@
-# Conocimiento
 
-Este repositorio contiene conocimientos relacionados a la Programación como **Desarrollo Full Stack**, **Desarrollo de Software** etc. Para abrir se debe usar **[Obsidian](https://obsidian.md/)**.
+# 🧠 Vault de Conocimiento
 
-### Enlace a los archivos
+Repositorio personal de estudio y documentación autodidacta. Aquí organizo todo lo que aprendo en distintas áreas como programación, ciberseguridad, ciencia de datos, entre otros.
 
-[https://mega.nz/file/dt53nShY#o78KUFGVzPGNfgHf_dWSSjDi4JN_vy-YkwQWK2OHL6E](https://mega.nz/file/dt53nShY#o78KUFGVzPGNfgHf_dWSSjDi4JN_vy-YkwQWK2OHL6E)
+---
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="56px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50px"/>
-</div>
-<br>
+## 📚 Índice General
+
+### Ciencias de la Computación
+
+Conocimientos técnicos y teóricos que forman la base del pensamiento computacional.
+
+#### Subcategorías:
+
+- **Big Data**
+  - Fundamentos de Apache Spark I
+  - Fundamentos de Big Data
+  - Hadoop
+
+- **Base de Datos**
+  - Redis
+  - SQL
+
+- **Data Engineering**
+  - Databricks
+
+---
+
+### Ciberseguridad
+
+Todo lo relacionado con hacking ético, seguridad ofensiva y defensiva.
+
+#### Subcategorías:
+
+- **Análisis de Red**
+  - Análisis de Tráfico de Red con Wireshark
+
+- **Criptografía**
+  - Algoritmos y vulnerabilidades de criptografía
+  - Descifrando las contraseñas
+
+- **Hacking Ético y Pentesting**
+  - Prácticas de hacking ético para TI y OT
+  - Pruebas de penetración móvil - iOS, Android y Windows
+  - Recopilación y enumeración activa de información
+
+- **Sistemas Operativos**
+  - Kali Linux
+
+---
+
+### Programación
+
+Lenguajes, paradigmas, buenas prácticas y proyectos prácticos.
+
+#### Subcategorías:
+
+- **Control de Versiones**
+  - Git
+  - GitHub Actions
+
+Desarrollo Web:
+
+- **Front End**
+  - HTML
+  - CSS
+  - Bootstrap
+  - JavaScript
+
+- **Lenguajes**
+  - C#
+  - Elixir
+  - Kotlin
+
+- **DevOps**
+  - Administración de Servidores Linux
+  - Bash Scripting
+  - Contenedores
+
+- **Sistemas Operativos**
+  - Linux
