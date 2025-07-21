@@ -60,7 +60,7 @@ Lenguajes, paradigmas, buenas prácticas y proyectos prácticos.
   - Git
   - GitHub Actions
 
-Desarrollo Web:
+#### Desarrollo Web:
 
 - **Front End**
   - HTML
