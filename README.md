@@ -34,6 +34,7 @@ Conocimientos técnicos y teóricos que forman la base del pensamiento computaci
   - SQL
 
 - **Computación Cuántica**
+  - Introducción a la Computación Cuántica
 
 - **Data Engineering**
   - Databricks
