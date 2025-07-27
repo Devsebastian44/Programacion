@@ -1,0 +1,1 @@
+El archivo es una configuración para **Windows Terminal**, una aplicación moderna para gestionar múltiples terminales en Windows. Este archivo de configuración está escrito en formato JSON y permite personalizar diversos aspectos de la experiencia de uso del terminal.
