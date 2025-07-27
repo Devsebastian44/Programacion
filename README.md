@@ -44,28 +44,6 @@ Conocimientos técnicos y teóricos que forman la base del pensamiento computaci
 
 ---
 
-### Ciberseguridad
-
-Todo lo relacionado con hacking ético, seguridad ofensiva y defensiva.
-
-#### Subcategorías:
-
-- **Análisis de Red**
-  - Análisis de Tráfico de Red con Wireshark
-
-- **Criptografía**
-  - Algoritmos y vulnerabilidades de criptografía
-  - Descifrando las contraseñas
-
-- **Hacking Ético y Pentesting**
-  - Prácticas de hacking ético para TI y OT
-  - Pruebas de penetración móvil - iOS, Android y Windows
-  - Recopilación y enumeración activa de información
-
-- **Sistemas Operativos**
-  - Kali Linux
-
----
 
 ### Programación
 
