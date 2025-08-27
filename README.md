@@ -41,6 +41,7 @@ Conocimientos técnicos y teóricos que forman la base del pensamiento computaci
 
 - **Inteligencia Artifical**
   - AI Generativa
+  - Ingeniería de Prompts
 
 ---
 
